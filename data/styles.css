@@ -51,6 +51,15 @@
 }
 .flow_shape {
 }
+.connector {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
 .line {
 }
 .box_1 {
@@ -62,6 +71,10 @@
 .table_cell {
 }
 .text_field {
+  color:#000000;
+  text-align:left;
+}
+.text_area {
   color:#000000;
   text-align:left;
 }
@@ -77,6 +90,10 @@
 .button {
 }
 .droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
   color:#000000;
   text-align:left;
 }
