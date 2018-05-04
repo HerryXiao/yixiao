@@ -602,10 +602,10 @@
 }
 #u146_img {
   position:absolute;
-  left:-2px;
-  top:-2px;
-  width:76px;
-  height:21px;
+  left:-10px;
+  top:-10px;
+  width:91px;
+  height:36px;
 }
 #u146 {
   position:absolute;
@@ -2062,4 +2062,26 @@
   top:0px;
   width:1px;
   height:1px;
+}
+#u253_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1682px;
+  height:848px;
+}
+#u253 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1682px;
+  height:848px;
+}
+#u254 {
+  position:absolute;
+  left:2px;
+  top:416px;
+  width:1678px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
