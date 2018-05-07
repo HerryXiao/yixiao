@@ -12,25 +12,78 @@
   position:absolute;
   z-index:0;
 }
-#u3570_img {
+#u4374_img {
   position:absolute;
   left:0px;
   top:0px;
   width:360px;
   height:914px;
 }
-#u3570 {
+#u4374 {
   position:absolute;
   left:0px;
-  top:0px;
+  top:40px;
   width:360px;
   height:914px;
 }
-#u3571 {
+#u4375 {
   position:absolute;
   left:2px;
   top:449px;
   width:356px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u4376_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:30px;
+}
+#u4376 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:119px;
+  height:30px;
+  font-family:'Arial Negreta', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+}
+#u4377 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:115px;
+  word-wrap:break-word;
+}
+#u4378_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(22, 155, 213, 1);
+  border:none;
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u4378 {
+  position:absolute;
+  left:116px;
+  top:991px;
+  width:140px;
+  height:40px;
+}
+#u4379 {
+  position:absolute;
+  left:2px;
+  top:12px;
+  width:136px;
   word-wrap:break-word;
 }
