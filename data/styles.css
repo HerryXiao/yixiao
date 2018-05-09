@@ -51,6 +51,9 @@
 .paragraph {
   text-align:left;
 }
+.text_link {
+  color:#0000FF;
+}
 .flow_shape {
 }
 .connector {
@@ -111,4 +114,10 @@
 }
 .checkbox {
   text-align:left;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.arrow {
 }
