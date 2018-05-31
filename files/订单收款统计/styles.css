@@ -1534,6 +1534,7 @@
   top:50px;
   width:228px;
   height:50px;
+  color:#0000FF;
 }
 #u32920 {
   position:absolute;
@@ -1541,6 +1542,13 @@
   top:17px;
   width:224px;
   word-wrap:break-word;
+}
+#u32919_ann {
+  position:absolute;
+  left:533px;
+  top:50px;
+  width:1px;
+  height:1px;
 }
 #u32921_img {
   position:absolute;
